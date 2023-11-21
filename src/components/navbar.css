@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* .container{
+
+  height: auto;
+} */
+
+.topnav {
+  overflow: hidden;
+  margin: auto;
+  padding: 0%;
+  background-color: rgb(24, 19, 19);
+
+}
+.topnav img{
+  float: left;
+  padding: 6px 8px ;
+  height: 50px;
+  width: 60px;
+  
+}
+
+.topnav .loginbtn {
+  float: right;
+}
+
+.topnav .loginbtn button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: rgb(96, 96, 186);
+  font-size: 17px;
+  border-radius: 7px;
+  color: white;
+  cursor: pointer;
+  
+}
+
+.topnav .loginbtn button:hover {
+  background: #ccc;
+}
+/* 
+@media screen and (max-width: 600px) {
+  .topnav .loginbtn {
+    float: none;
+  }
+  .topnav .loginbtn button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+} */
