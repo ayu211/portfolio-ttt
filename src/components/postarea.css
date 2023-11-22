@@ -1,0 +1,21 @@
+.container1{
+    padding: 8px;
+
+}
+.container1 h2{
+    font-size: larger;
+    /* font-weight: bold; */
+    font-family: Fantasy;
+    margin: 2px;
+}
+.postContainer{
+    padding: 2px;
+    font-family: sans-serif;
+    color: rgb(54, 54, 54);
+}
+.genre p{
+    font-weight: bolder;
+    font-family: sans-serif;
+    color: rgb(54, 54, 54);
+
+}

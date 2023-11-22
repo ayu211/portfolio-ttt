@@ -12,16 +12,6 @@ function Post() {
                     <Postarea key={key} title={data.title} post={data.post} postgenre={data.postgenre} />
                     <hr />
                     </>
-                    // <div className='container2' key={key}>
-                    //     {data.title}
-                    //     <div className='postContainer'>
-                    //         {data.post}
-                    //     </div>
-                    //     <br />
-                    //     <div className='genre'>
-                    //         {data.postGenre} "by Ayush Yadav"
-                    //     </div>
-                    // </div>
                 )
             })}
         </div>

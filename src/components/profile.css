@@ -72,6 +72,12 @@
     font-family:sans-serif;
 }
 .designation{
+    font-size:larger;
+    font-family:sans-serif;
+    font-weight: bolder;
+    
+}
+.summary{
     font-size:medium;
     font-family:sans-serif;
 }
